@@ -229,7 +229,7 @@ body {
 }
 
 .btn-primary {
-    background: rgba(255, 255, 255, 0.2);
+    background-color: Black;
     color: white;
     border: 2px solid rgba(255, 255, 255, 0.3);
 }
