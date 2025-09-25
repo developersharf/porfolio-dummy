@@ -382,7 +382,7 @@ section {
 }
 
 .tech-tag {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background-color: black;
     color: white;
     padding: 5px 12px;
     border-radius: 20px;
@@ -455,7 +455,7 @@ section {
 
 .skill-progress {
     height: 100%;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background-color: black;
     width: 0;
     border-radius: 4px;
     transition: width 2s ease;
@@ -517,7 +517,7 @@ section {
 
 .soft-skill-item i {
     font-size: 2rem;
-    color: #667eea;
+    color: #black;
     margin-bottom: 10px;
 }
 
